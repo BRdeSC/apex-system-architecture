@@ -88,7 +88,7 @@ O sistema elimina a dependência de planilhas e softwares genéricos pesados, en
 
 ## ✉️ Contato & Redes Profissionais
 
-Desenvolvido por **Bruno** — *Full-Stack SaaS Developer*
-- **LinkedIn:** [Seu Perfil do LinkedIn](#)
-- **Portfólio:** [Link para o seu site/demo](#)
-- **E-mail:** [seu.email@dominio.com](#)
+Desenvolvido por **Bruno** — *Full-Stack Developer*
+- **LinkedIn:** https://www.linkedin.com/in/bruno-ti/
+- **Portfólio:** [Link para do sistema/demo] em desenvolvimento.
+- **E-mail:** brunodsc.trabalho@gmail.com
