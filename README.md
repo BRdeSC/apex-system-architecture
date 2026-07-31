@@ -90,5 +90,5 @@ O sistema elimina a dependência de planilhas e softwares genéricos pesados, en
 
 Desenvolvido por **Bruno** — *Full-Stack Developer*
 - **LinkedIn:** https://www.linkedin.com/in/bruno-ti/
-- **Portfólio:** [Link para do sistema/demo] em desenvolvimento.
+- **Portfólio:** [Link do sistema/demo] em desenvolvimento.
 - **E-mail:** brunodsc.trabalho@gmail.com
